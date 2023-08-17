@@ -12,7 +12,7 @@ ESPECIFICADORES DE FORMATO: scanf()
 -- s -> Sequêcia de caracteres alfannuméricos (texto);
 -- [^chars] -> Lê todos os dados digitados, exceto os especificados em "chars";
 
---------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------*/
 int main(int argc, char const *argv[])
 {
     int idade = 0;
@@ -23,9 +23,10 @@ int main(int argc, char const *argv[])
             scanf("%d", &idade);
                 printf("Sua idade e: %d, e seu nome e: %s",idade, nome);
 }
+/*
 -------------------------------------------------------------------------------------------------------
-
 FORMA MAIS SIMPLIFICADA (Não é ideal)
+*/
 
 int main(int argc, char const *argv[])
 {
