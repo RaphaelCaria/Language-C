@@ -27,6 +27,8 @@ SEQUÊNCIA DE ESCAPE printf();
 -- \v -> Tabulação Vertical;
 
 ---------------------------------------------------------------------------------------------
+*/
+
 #include <stdio.h>
 
 int main(int argc, char const *argv[])
