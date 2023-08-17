@@ -7,7 +7,7 @@ Divisão: /;
 Resto de divisão inteira: %;
 
 OBS: Existe precedência entre operadores!;
-
+*/
 
 #include <stdio.h>
 
@@ -33,6 +33,7 @@ int main()
     return 0;
 }
 
+/*
 ------------ATRIBUIÇÕES ARITIMÉTICAS---------------
 Operadores de atribuição aritmética;
     ->Incremento em 1 unidade: ++;
@@ -41,7 +42,7 @@ Operadores de atribuição aritmética;
     ->Decremento genérico: -=;
     ->Atribuição com multiplicação: *=;
     ->Atribuição com divisão: /=;
-
+*/
 int main()
 {
     int dado = 10;
@@ -68,4 +69,3 @@ int main()
     return 0;
 }
 
-*/
