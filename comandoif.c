@@ -15,7 +15,7 @@ Condições lógico-relacionais;
         ->Menor igual: <=;
         ->Igual: ==;
         ->Diferente: !=;
-
+*/
 #include <stdio.h>
 
 int main()
@@ -32,7 +32,7 @@ int main()
     return 0;
 }
 -----------------------------------------------------------------------------------------------
-
+/*
     -Operadores lógicos:
         ->Conjunção("e" lógico): &&; 
             -> É verdade quando tudo for verdade;
@@ -40,7 +40,8 @@ int main()
             -> É verdade se ao menos 1 for verdade;
         ->Inversão(negação-"não lógico"): !;
             -> É verdade quando o operando é falso
-
+*/
+    
 #include <stdio.h>
 
 int main()
@@ -56,5 +57,5 @@ int main()
 
     return 0;
 }
-*/
+
 
